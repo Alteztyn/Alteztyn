@@ -45,13 +45,16 @@
   </a>
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alteztyn&show_icons=true&locale=en&layout=compact" alt="alteztyn" style="margin-right: 20px;" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alteztyn&show_icons=true&locale=en&layout=compact" alt="alteztyn" /></p>
-<p><br> </br></p>
-<p><br> </br></p>
-<p><br> </br></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alteztyn&show_icons=true&locale=en" alt="alteztyn" style="margin-top: 20px; margin-bottom: 20px;" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alteztyn&show_icons=true&locale=en" alt="alteztyn" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alteztyn&" alt="alteztyn" style="margin-top: 20px;" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alteztyn&" alt="alteztyn" /></p>
 
