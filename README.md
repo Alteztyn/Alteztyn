@@ -59,8 +59,5 @@
 
 <div style="display: inline-block; width: 2px; height: 50px; background-color: black; margin: 0 20px;"></div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alteztyn&show_icons=true&locale=en&layout=compact" alt="alteztyn" style="margin-right: 20px;" />
-</p>
 
 
