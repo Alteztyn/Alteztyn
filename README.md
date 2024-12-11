@@ -3,8 +3,6 @@
 <h3 align="center">A Junior Software Engineer</h3>
 <img aligh="right" alt="Coding" width="400" src="https://media1.tenor.com/m/riQx6NYuBx0AAAAd/eyes.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alteztyn&label=Profile%20views&color=0e75b6&style=flat" alt="alteztyn" /> </p>
-
 - ⚡ Fun fact **I Love Comics, Games, and Cats.**
 
 <h3 align="left">Connect with me:</h3>
