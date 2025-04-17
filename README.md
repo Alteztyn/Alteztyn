@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Khidir Julian</h1>
-<h3 align="center">A Junior Software Engineer</h3>
-<img aligh="right" alt="Coding" width="400" src="https://media1.tenor.com/m/riQx6NYuBx0AAAAd/eyes.gif">
 
 - ⚡ Fun fact **I Love Comics, Games, and Cats.**
 
